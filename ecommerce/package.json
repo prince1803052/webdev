@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@babel/preset-react": "^7.17.12",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "react-hot-loader": "^4.5.3"
+  },
+  "dependencies": {
+    "@sanity/client": "^3.3.2",
+    "@sanity/image-url": "^1.0.1",
+    "react-hot-toast": "^2.2.0",
+    "react-icons": "^4.4.0",
+    "react-nextjs-toast": "^1.2.5"
+  }
+}
